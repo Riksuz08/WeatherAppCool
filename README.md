@@ -1,6 +1,6 @@
 # weather_app_cool
 
-Romain Girou
+Riksuz
 
 ## Getting Started
 
